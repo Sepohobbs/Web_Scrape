@@ -1,0 +1,13 @@
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\bin\Debug\Web_Scrap.exe
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\bin\Debug\Web_Scrap.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\bin\Debug\Web_Scrap.xml
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\MainWindow.baml
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Application.g.vb
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap_MarkupCompile.cache
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.g.resources
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.exe
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.xml
+C:\Users\User\AppData\Local\Temporary Projects\Web_Scrap\obj\x86\Debug\Web_Scrap.pdb
